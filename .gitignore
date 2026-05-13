@@ -1,0 +1,9 @@
+node_modules/
+data/
+music.db
+.env
+.DS_Store
+music/
+public/assets/covers/
+.superpowers/
+server/database.sqlite
